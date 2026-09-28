@@ -1,0 +1,11 @@
+# Core
+deepxde>=1.11
+torch>=2.0
+numpy
+scipy
+pandas
+# Plotting
+matplotlib
+seaborn
+# Utilities
+tqdm
