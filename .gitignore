@@ -7,3 +7,5 @@ checkpoints*/
 *.csv
 *.png
 *.pdf
+# keep README figures
+!assets/*
