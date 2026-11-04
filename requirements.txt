@@ -9,3 +9,4 @@ matplotlib
 seaborn
 # Utilities
 tqdm
+requests
